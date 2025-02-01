@@ -1,4 +1,5 @@
-# This repository contains scripts used in Guo et al., 2025.
+# Guo et al., 2025 ESD
+This repository contains scripts used in Guo et al., 2025.
 
 1.signal_separation
 Contains scripts to separate local and nonlocal effects.
