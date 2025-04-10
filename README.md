@@ -18,3 +18,5 @@ Contains scripts to generate figures presented in Section 3.5.
 
 6.climate
 Contains scripts to generate figures in Appendix C.
+ 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15192278.svg)](https://doi.org/10.5281/zenodo.15192278)
